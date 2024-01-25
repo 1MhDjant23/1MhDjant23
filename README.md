@@ -4,6 +4,7 @@
 <a href="https://github.com/oakoudad/badge42" align="left">
     <img src="https://badge.mediaplus.ma/binary/mait-taj" alt="mait-taj's 42 stats" width=60% display=block"/>
 </a>
+<hr/>
 </p>
 
 ## SOCIAL
