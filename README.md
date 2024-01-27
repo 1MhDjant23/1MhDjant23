@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/simotajant/">
     <img src="https://img.shields.io/badge/-instagram-000?style=flat&logo=instagram&logoColor=fff&labelColor=000"">
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/محمد-ايت-تجانت-2b46212ab/">
     <img src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=fff&labelColor=000"">
 </a>
 
