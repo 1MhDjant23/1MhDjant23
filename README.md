@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3500&pause=300&color=d00000&center=true&width=435&lines=YoU/>WLcOm.In->MY😑GithUb)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3500&pause=300&color=d00000&center=true&width=435&lines=YoU/>WLcOm.In->MY😑GithUb)](https://git.io/typing-svg)
+<img src="https://giffiles.alphacoders.com/362/36249.gif" width="900" height="400"/>
+
 </hr>
 <p align="center">
 <a href="https://github.com/oakoudad/badge42" align="left">
