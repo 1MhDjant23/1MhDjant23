@@ -1,4 +1,4 @@
-import fs from "fs";
+const fs = require("fs");
 
 // List of my favorite quotes
 const quotes = [
