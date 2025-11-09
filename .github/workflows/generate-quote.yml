@@ -1,0 +1,32 @@
+name: 🧠 Generate Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every day at midnight UTC
+  workflow_dispatch:      # allows manual trigger from GitHub Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # allows pushing changes back to repo
+
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧰 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: 🧠 Generate SVG quote
+        run: node generate-quote.js
+
+      - name: 🪶 Commit and push the new quote.svg
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add quote.svg
+          git commit -m "🧠 update daily quote" || echo "No changes to commit"
+          git push
