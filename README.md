@@ -104,6 +104,13 @@ As a student at **1337 MED**, I'm working through challenging projects that buil
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=1MhDjant23&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
