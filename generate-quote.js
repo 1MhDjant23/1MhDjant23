@@ -1,7 +1,5 @@
-// replace import with require
 const fs = require("fs");
 
-// rest of your script stays the same
 const quotes = [
   "Code is like humor. When you have to explain it, it's bad. –  Mohamed Ait Tajante",
   "Talk is cheap. Show me the code. – Linus Torvalds",
@@ -24,4 +22,4 @@ const svg = `
 
 fs.writeFileSync("quote.svg", svg, "utf8");
 
-console.log("✅ Quote generated successfully:", randomQuote);
+//console.log("✅ Quote generated successfully:", randomQuote);
