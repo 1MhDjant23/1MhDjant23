@@ -2,7 +2,7 @@ name: 🧠 Generate Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 * * * *"  # every day at midnight UTC
   workflow_dispatch:      # allows manual trigger from GitHub Actions tab
 
 jobs:
