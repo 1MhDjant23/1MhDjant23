@@ -137,7 +137,7 @@ As a student at **1337 MED**, I'm working through challenging projects that buil
 
 **⭐️ From [1MhDjant23](https://github.com/1MhDjant23) | 1337 MED - 42 Network**
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – mait-taj
 
 </div>
 
