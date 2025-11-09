@@ -125,7 +125,7 @@ As a student at **1337 MED**, I'm working through challenging projects that buil
 
 ### 💭 Developer Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://github.com/1MhDjant23/1MhDjant23/blob/main/quote.svg)
 
 ---
 
