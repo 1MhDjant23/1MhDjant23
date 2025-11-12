@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3500&pause=300&color=d00000&center=true&width=435&lines=YoU/>WLcOm.In->MY🤖Github-Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3500&pause=300&color=d00000&center=true&width=435&lines=YoU/>WLcOm.In->MY🤖Github-Profile)](https://git.io/typing-svg)
 <img src="https://giffiles.alphacoders.com/362/36249.gif" width="900" height="400"/>
 
 </hr>
@@ -72,8 +72,7 @@ I'm a **Software Engineering Student** at **1337 MED**, proudly part of the pres
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1MhDjant23&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1MhDjant23&theme=radical&hide_border=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1MhDjant23&theme=gruvbox-duo&hide_border=true&border_radius=4.1&short_numbers=true)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -96,7 +95,6 @@ As a student at **1337 MED**, I'm working through challenging projects that buil
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdjant607@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/محمد-ايت-تجانت-2b46212ab/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MhDjant)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simotajant/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
 
