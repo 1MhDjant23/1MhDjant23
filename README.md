@@ -29,16 +29,6 @@ I'm a **Software Engineering Student** at **1337 MED**, proudly part of the pres
 
 ---
 
-## 🏆 42 Network Achievement
-
-<div align="center">
-  
-[![42 Profile Card](https://badge.mediaplus.ma/binary/mait-taj)](https://profile.intra.42.fr/users/mait-taj)
-
-</div>
-
----
-
 ## 💻 Tech Stack & Skills
 
 <div align="center">
